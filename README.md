@@ -24,8 +24,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -35,3 +33,5 @@
 
 ---
 
+## Proyectos 
+[![Repo](https://img.shields.io/badge/Repo-Imagen__Ruido-181717?logo=github&logoColor=white)](https://github.com/FraustoEmi/Imagen_Ruido)
