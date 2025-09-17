@@ -35,3 +35,5 @@
 
 ## Proyectos 
 [![Repo](https://img.shields.io/badge/Repo-Imagen__Ruido-181717?logo=github&logoColor=white)](https://github.com/FraustoEmi/Imagen_Ruido)
+[![Repo](https://img.shields.io/badge/Repo-Semester_5-181717?logo=github&logoColor=white)](https://github.com/FraustoEmi/Semester_5)
+
