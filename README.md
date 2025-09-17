@@ -41,3 +41,4 @@
 
 ## Colaboraciones
 [![Repo](https://img.shields.io/badge/Repo-Economista_inteligente-181717?logo=github&logoColor=red)](https://github.com/Seikened/economista_inteligente)
+[![Repo](https://img.shields.io/badge/Repo-Bone_age_predictor-181717?logo=github&logoColor=red)](https://github.com/Seikened/bone_age_predictor)
