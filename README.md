@@ -38,4 +38,4 @@
 [![Repo](https://img.shields.io/badge/Repo-Semester_5-181717?logo=github&logoColor=white)](https://github.com/FraustoEmi/Semester_5)
 
 ## Colaboraciones
-[![Repo](https://img.shields.io/badge/Repo-Semester_5-181717?logo=github&logoColor=red)](https://github.com/Seikened/economista_inteligente)
+[![Repo](https://img.shields.io/badge/Repo-Economista_inteligente-181717?logo=github&logoColor=red)](https://github.com/Seikened/economista_inteligente)
