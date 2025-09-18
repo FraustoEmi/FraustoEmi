@@ -26,7 +26,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-
+[![Power BI](https://img.shields.io/badge/Power%20BI-Report-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=000000)](#)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
 
